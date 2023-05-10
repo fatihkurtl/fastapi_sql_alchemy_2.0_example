@@ -13,8 +13,8 @@ This is a simple example project that demonstrates how to use FastAPI with SQLAl
 
 To install this project, you need to have Python 3.6 or higher and poetry installed on your system. Then follow these steps:
 
-- Clone this repository: `git clone https://github.com/fatihkurtl/fastapi_sql_alchemy_2.0_example.git`
-- Enter the project directory: `cd fastapi_sql_alchemy_2.0_example`
+- Clone this repository: `git clone https://github.com/fatihkurtl/fastapi_sqlalchemy_2.0_example.git`
+- Enter the project directory: `cd fastapi_sqlalchemy_2.0_example`
 - Install the dependencies: `poetry install`
 - Activate the virtual environment: `poetry shell`
 
